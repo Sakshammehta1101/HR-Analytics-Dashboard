@@ -1,2 +1,4 @@
-# HR-Analytics-Dashboard
-This dashboard designed to analyze employee attrition. Using HR data from 1,470 employees, the dashboard provides insights into attrition rates by department, gender, and age group. The goal of this project is to help HR teams identify the root causes of employee turnover, monitor workforce trends, and implement data-driven retention strategies.
+HR Analytics Dashboard
+Project Objective
+
+The HR Department wants to create an HR Analytics Dashboard to understand employee attrition trends, job satisfaction levels, and workforce demographics. This will help management identify the key reasons for employee turnover and implement effective retention strategies to improve employee engagement and reduce attrition in the coming years.
