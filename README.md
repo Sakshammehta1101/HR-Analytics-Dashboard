@@ -4,6 +4,7 @@ The HR Department wants to create an HR Analytics Dashboard to understand employ
 Dataset Used
 
 ## Dataset Name: HR Data.xlsx
+- <a href="https://github.com/Sakshammehta1101/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">HR Data.xlsx</a> 
 Dataset Size: 1,470 employee records
 Key Fields: Age, Gender, Department, Education Field, Job Role, Attrition Status, Job Satisfaction, etc.
 
