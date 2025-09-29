@@ -31,6 +31,8 @@ Dataset Used
 
 ## Dashboard
 - <a href="https://github.com/Sakshammehta1101/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20dashboard.png">HR Analytics dashboard</a>
+- <img width="1580" height="900" alt="HR Analytics dashboard" src="https://github.com/user-attachments/assets/0f857fdc-0b61-40e8-ab49-01ed648b73b7" />
+
 
 ## Project Insights
 - Attrition Rate: 16.12% overall attrition.
